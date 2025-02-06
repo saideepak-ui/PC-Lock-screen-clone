@@ -24,6 +24,6 @@ I was responsible for the end-to-end development of this project, from conceptua
 Outcome:<br/>
 The lock screen clone web page project showcases my proficiency in front-end web development and my ability to create interactive user interfaces using modern web technologies.<br/>
 
-Link: [https://lokesh-reddy14.github.io/PC-Lock-Screen-clone/]<br/>
+Link: [https://saideepak-ui.github.io/PC-Lock-screen-clone/]<br/>
 
 Tags: #WebDevelopment #HTML #CSS #JavaScript #FrontEndDevelopment #UIUX<br/>
